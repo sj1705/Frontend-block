@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Blockchain-Project/tree/main/client/static/css/main.41f67b5f.chunk.css",
-    "main.js": "/Blockchain-Project/tree/main/client/static/js/main.796a7287.chunk.js",
-    "main.js.map": "/Blockchain-Project/tree/main/client/static/js/main.796a7287.chunk.js.map",
-    "runtime-main.js": "/Blockchain-Project/tree/main/client/static/js/runtime-main.c0810083.js",
-    "runtime-main.js.map": "/Blockchain-Project/tree/main/client/static/js/runtime-main.c0810083.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Blockchain-Project/tree/main/client/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d52deec6.chunk.js": "/Blockchain-Project/tree/main/client/static/js/2.d52deec6.chunk.js",
-    "static/js/2.d52deec6.chunk.js.map": "/Blockchain-Project/tree/main/client/static/js/2.d52deec6.chunk.js.map",
-    "index.html": "/Blockchain-Project/tree/main/client/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Blockchain-Project/tree/main/client/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.41f67b5f.chunk.css.map": "/Blockchain-Project/tree/main/client/static/css/main.41f67b5f.chunk.css.map",
-    "static/js/2.d52deec6.chunk.js.LICENSE.txt": "/Blockchain-Project/tree/main/client/static/js/2.d52deec6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Blockchain-Project/tree/main/client/static/media/bg.55da13d3.jpg",
-    "static/media/blockpharm-logo.png": "/Blockchain-Project/tree/main/client/static/media/blockpharm-logo.62b73d56.png",
-    "static/media/blockpharm-logo2.png": "/Blockchain-Project/tree/main/client/static/media/blockpharm-logo2.350320da.png"
+    "main.css": "/Frontend-block/static/css/main.da6b1856.chunk.css",
+    "main.js": "/Frontend-block/static/js/main.796a7287.chunk.js",
+    "main.js.map": "/Frontend-block/static/js/main.796a7287.chunk.js.map",
+    "runtime-main.js": "/Frontend-block/static/js/runtime-main.50820b57.js",
+    "runtime-main.js.map": "/Frontend-block/static/js/runtime-main.50820b57.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Frontend-block/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5f4558cd.chunk.js": "/Frontend-block/static/js/2.5f4558cd.chunk.js",
+    "static/js/2.5f4558cd.chunk.js.map": "/Frontend-block/static/js/2.5f4558cd.chunk.js.map",
+    "index.html": "/Frontend-block/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Frontend-block/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.da6b1856.chunk.css.map": "/Frontend-block/static/css/main.da6b1856.chunk.css.map",
+    "static/js/2.5f4558cd.chunk.js.LICENSE.txt": "/Frontend-block/static/js/2.5f4558cd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Frontend-block/static/media/bg.55da13d3.jpg",
+    "static/media/blockpharm-logo.png": "/Frontend-block/static/media/blockpharm-logo.62b73d56.png",
+    "static/media/blockpharm-logo2.png": "/Frontend-block/static/media/blockpharm-logo2.350320da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0810083.js",
+    "static/js/runtime-main.50820b57.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.d52deec6.chunk.js",
-    "static/css/main.41f67b5f.chunk.css",
+    "static/js/2.5f4558cd.chunk.js",
+    "static/css/main.da6b1856.chunk.css",
     "static/js/main.796a7287.chunk.js"
   ]
 }
